@@ -18,17 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Challenge of Compositionality for Artificial Intelligence
+title: The Challenge of Compositionality for AI
 email: compositionalityworkshop@raphaelmilliere.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:" 
   A two-day workshop on compositionality and artificial intelligence organized by Gary Marcus and Raphaël Millière.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://compositionalintelligence.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  compositionalintelligence
+
+footer:
+  credit: false
+  custom: false
 
 # Build settings
 remote_theme: oinam/oinam-jekyll
+
+
+layout:
+  theme: default # default, vintage, nord
+  theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
+  theme_switch: true # enable or disable user toggle switch between light and dark theme
+  home_posts_no: 0
+  home_postheader_title: 'Recent posts'
+  home_postmeta_title: 'View all'
+  posts_home: /blog/
+  link_new_tab: true # should external links open in a new tab (true) or in the current tab (false)
+
+
 # plugins:
 #   - jekyll-feed
 
