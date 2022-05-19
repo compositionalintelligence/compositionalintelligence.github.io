@@ -5,10 +5,10 @@
 layout: home
 ---
 
-A two-day workshop on compositionality and artificial intelligence organized by Gary Marcus and Raphaël Millière.
+A two-day workshop on compositionality and artificial intelligence organized by [Gary Marcus](http://garymarcus.com) and [Raphaël Millière](https://raphaelmilliere.com/gary ).
 
-# Speakers
+## Speakers
 
-# Program
+## Program
 
-# Registration
+## Registration
