@@ -7,6 +7,9 @@ layout: home
 
 A two-day online workshop on compositionality and artificial intelligence organized by [Gary Marcus](http://garymarcus.com) and [Raphaël Millière](https://raphaelmilliere.com/gary ).
 
+
+<img class="medium" src="logo.png" alt="Logo" loading="lazy">
+
 ## Speakers
 
 - Stephanie Chan (DeepMind)
