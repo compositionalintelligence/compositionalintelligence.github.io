@@ -30,9 +30,9 @@ twitter_username:
 github_username:  compositionalintelligence
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+remote_theme: oinam/oinam-jekyll
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
