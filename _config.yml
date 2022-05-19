@@ -21,6 +21,7 @@
 title: The Challenge of Compositionality for AI
 email: compositionalityworkshop@raphaelmilliere.com
 description: >- # this means to ignore newlines until "baseurl:"
+  June 28-29, 2022
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://compositionalintelligence.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
