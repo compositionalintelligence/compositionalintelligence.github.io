@@ -23,15 +23,17 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ## Program
 
-[TBC]
-
 ### Day 1: Why Compositionality Matters for AI
 
-*12pm EDT -- online*
+*12-2pm EDT -- online*
+
+[TBC]
 
 ### Day 2: Can Language Models Handle Compositionality?
 
-*12pm EDT -- online*
+*12-2.30pm EDT -- online*
+
+[TBC]
 
 ## Registration
 
