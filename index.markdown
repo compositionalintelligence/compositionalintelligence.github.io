@@ -37,4 +37,4 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ## Registration
 
-Registration is free and open to all. Please complete [the following form](https://forms.gle/e9rXFSv9duybveYb6) to register.
+Registration is free and open to all. Please complete [this form](https://forms.gle/e9rXFSv9duybveYb6) to register.
