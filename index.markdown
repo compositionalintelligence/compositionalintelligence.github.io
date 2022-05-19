@@ -34,3 +34,5 @@ A two-day online workshop on compositionality and artificial intelligence organi
 *12pm EDT -- online*
 
 ## Registration
+
+Registration is free and open to all. Please fill [the following form](https://forms.gle/e9rXFSv9duybveYb6) if you would like to register.
