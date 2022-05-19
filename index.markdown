@@ -27,14 +27,14 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 *12-2pm EDT -- online*
 
-[TBC]
+[TBA]
 
 ### Day 2: Can Language Models Handle Compositionality?
 
 *12-2.30pm EDT -- online*
 
-[TBC]
+[TBA]
 
 ## Registration
 
-Registration is free and open to all. Please fill [the following form](https://forms.gle/e9rXFSv9duybveYb6) if you would like to register.
+Registration is free and open to all. Please complete [the following form](https://forms.gle/e9rXFSv9duybveYb6) to register.
