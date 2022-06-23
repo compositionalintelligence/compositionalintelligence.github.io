@@ -27,7 +27,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 *June 29, 12-2pm EDT -- online*
 
-- Alyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU"
+- Allyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU"
 - Gary Marcus -- "Compositionality and Natural Language Understanding"
 - Paul Smolensky -- "Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI"
 - Raphaël Millière -- "Compositionality and 'Soft' Variable Binding"
