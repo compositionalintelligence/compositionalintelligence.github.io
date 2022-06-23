@@ -27,14 +27,21 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 *12-2pm EDT -- online*
 
-[TBA]
+- Alyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU"
+- Gary Marcus -- "Compositionality and Natural Language Understanding"
+- Paul Smolensky -- "Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI"
+- Raphaël Millière -- "Compositionality and 'Soft' Variable Binding"
 
 ### Day 2: Can Language Models Handle Compositionality?
 
 *12-2.30pm EDT -- online*
 
-[TBA]
+- Dieuwke Hupkes -- "Are Neural Networks Compositional, and How Do We Even Know?"
+- Tal Linzen -- "Successes and Failures of Compositionality in Neural Networks for Language"
+- Ellie Pavlick -- "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
+- Stephanie Chan -- "Data Distributions Drive Emergent In-Context Learning in Transformers"
+- Brenden Lake -- "Human-Like Compositional Generalization Through Meta-Learning"
 
 ## Registration
 
-Registration is free and open to all. Please complete [this form](https://forms.gle/e9rXFSv9duybveYb6) to register.
+Registration is free and open to all. Please complete [this form](https://forms.gle/e9rXFSv9duybveYb6) to register. (Note: there is no confirmation email after completing the form, but we will send the relevant information ahead of the meeting.)
