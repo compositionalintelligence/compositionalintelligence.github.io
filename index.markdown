@@ -25,7 +25,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ### Day 1: Why Compositionality Matters for AI
 
-*12-2pm EDT -- online*
+*June 29, 12-2pm EDT -- online*
 
 - Alyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU"
 - Gary Marcus -- "Compositionality and Natural Language Understanding"
@@ -34,7 +34,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ### Day 2: Can Language Models Handle Compositionality?
 
-*12-2.30pm EDT -- online*
+*June 30, 12-2.30pm EDT -- online*
 
 - Dieuwke Hupkes -- "Are Neural Networks Compositional, and How Do We Even Know?"
 - Tal Linzen -- "Successes and Failures of Compositionality in Neural Networks for Language"
