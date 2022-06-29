@@ -44,6 +44,8 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ## Registration
 
+**Note: registration will close at 10am EDT on Wednesday June 29th, and an email containing the Zoom links will be sent shortly afterwards.**
+
 Registration is free and open to all. Please complete [this form](https://forms.gle/e9rXFSv9duybveYb6) to register. (Note: there is no confirmation email after completing the form, but we will send the relevant information ahead of the meeting.)
 
 ## Recording
