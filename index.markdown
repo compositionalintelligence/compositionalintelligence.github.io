@@ -14,7 +14,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 - [Stephanie Chan](https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en) (DeepMind)
 - [Allyson Ettinger](https://linguistics.uchicago.edu/allyson-ettinger) (University of Chicago)
 - [Dieuwke Hupkes](https://dieuwkehupkes.nl/) (European Laboratory for Learning and Intelligent Systems / Meta AI)
-- [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) (Johns Hopkins University)
+- [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) (Johns Hopkins University/Microsoft Research Redmond)
 - [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
 - [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
 - [Gary Marcus](http://garymarcus.com) (New York University, Emeritus)
