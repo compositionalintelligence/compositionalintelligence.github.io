@@ -25,7 +25,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ### Day 1: Why Compositionality Matters for AI
 
-*June 29, 12-2pm EDT -- online*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9tH9Qz1nH3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Gary Marcus -- "Compositionality and Natural Language Understanding"
 - Allyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU"
@@ -34,7 +34,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ### Day 2: Can Language Models Handle Compositionality?
 
-*June 30, 12-2.30pm EDT -- online*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYB2dxvrvX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Dieuwke Hupkes -- "Are Neural Networks Compositional, and How Do We Even Know?"
 - Tal Linzen -- "Successes and Failures of Compositionality in Neural Networks for Language"
@@ -42,12 +42,5 @@ A two-day online workshop on compositionality and artificial intelligence organi
 - Stephanie Chan -- "Data Distributions Drive Emergent In-Context Learning in Transformers"
 - Brenden Lake -- "Human-Like Compositional Generalization Through Meta-Learning"
 
-## Registration
+## Readings
 
-**Note: registration will close at 10am EDT on Wednesday June 29th, and an email containing the Zoom links will be sent shortly afterwards.**
-
-Registration is free and open to all. Please complete [this form](https://forms.gle/e9rXFSv9duybveYb6) to register. (Note: there is no confirmation email after completing the form, but we will send the relevant information ahead of the meeting.)
-
-## Recording
-
-Both days will be recorded, and the recordings will be made available later for those who could not attend.
