@@ -29,8 +29,8 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 - Gary Marcus -- "Compositionality and Natural Language Understanding"
 - Allyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU"
-- Raphaël Millière -- "Compositionality Without Constituency"
 - Paul Smolensky -- "Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI"
+- Raphaël Millière -- "Compositionality Without Constituency"
 
 ### Day 2: Can Language Models Handle Compositionality?
 
@@ -38,8 +38,8 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 - Dieuwke Hupkes -- "Are Neural Networks Compositional, and How Do We Even Know?"
 - Tal Linzen -- "Successes and Failures of Compositionality in Neural Networks for Language"
+- Stephanie Chan -- "Data Distributions Drive Emergent In-Context Learning in Transformers"\
 - Ellie Pavlick -- "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
-- Stephanie Chan -- "Data Distributions Drive Emergent In-Context Learning in Transformers"
 - Brenden Lake -- "Human-Like Compositional Generalization Through Meta-Learning"
 
 <!-- ## References
