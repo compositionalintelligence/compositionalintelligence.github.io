@@ -21,7 +21,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 - [Raphaël Millière](https://raphaelmilliere.com) (Columbia University)
 - [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
 
-## Program
+## Recordings
 
 ### Day 1: Why Compositionality Matters for AI
 
@@ -42,5 +42,9 @@ A two-day online workshop on compositionality and artificial intelligence organi
 - Stephanie Chan -- "Data Distributions Drive Emergent In-Context Learning in Transformers"
 - Brenden Lake -- "Human-Like Compositional Generalization Through Meta-Learning"
 
-## Readings
+<!-- ## References
+
+We have listed some relevant papers discussed by each speaker below. 
+
+### Gary Marcus -->
 
