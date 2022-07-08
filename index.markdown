@@ -31,20 +31,36 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tH9Qz1nH3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Gary Marcus -- "Compositionality and Natural Language Understanding"
-- Allyson Ettinger -- "Shades of Meaning Composition: Defining Compositionality Goals in NLU" [[Slides](/pdfs/Ettinger.pdf)]
-- Paul Smolensky -- "Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI" [[Slides](/pdfs/Smolensky.pdf)]
-- Raphaël Millière -- "Compositionality Without Constituency" [[Slides](/pdfs/Milliere.pdf)]
+##### [Gary Marcus](http://garymarcus.com) (New York University, Emeritus)
+"Compositionality and Natural Language Understanding"
+
+##### [Allyson Ettinger](https://linguistics.uchicago.edu/allyson-ettinger) (University of Chicago)
+"Shades of Meaning Composition: Defining Compositionality Goals in NLU" [[Slides](/pdfs/Ettinger.pdf)]
+
+##### [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) (Johns Hopkins University/Microsoft Research Redmond)
+"Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI" [[Slides](/pdfs/Smolensky.pdf)]
+
+##### [Raphaël Millière](https://raphaelmilliere.com) (Columbia University)
+"Compositionality Without Constituency" [[Slides](/pdfs/Milliere.pdf)]
 
 ### Day 2: Can Language Models Handle Compositionality?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GYB2dxvrvX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Dieuwke Hupkes -- "Are Neural Networks Compositional, and How Do We Even Know?"
-- Tal Linzen -- "Successes and Failures of Compositionality in Neural Networks for Language" [[Slides](/pdfs/Linzen.pdf)]
-- Stephanie Chan -- "Data Distributions Drive Emergent In-Context Learning in Transformers"
-- Ellie Pavlick -- "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
-- Brenden Lake -- "Human-Like Compositional Generalization Through Meta-Learning"
+##### [Dieuwke Hupkes](https://dieuwkehupkes.nl/) (European Laboratory for Learning and Intelligent Systems / Meta AI)
+"Are Neural Networks Compositional, and How Do We Even Know?"
+
+##### [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
+"Successes and Failures of Compositionality in Neural Networks for Language" [[Slides](/pdfs/Linzen.pdf)]
+
+##### [Stephanie Chan](https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en) (DeepMind)
+"Data Distributions Drive Emergent In-Context Learning in Transformers"
+
+##### [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
+"No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
+
+##### [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
+"Human-Like Compositional Generalization Through Meta-Learning"
 
 ## References
 
