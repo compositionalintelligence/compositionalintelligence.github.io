@@ -7,59 +7,43 @@ layout: home
 
 <p style="text-align:center;"><img width="35%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[Speakers](#speakers) · [Recordings](#recordings) · [References](#references)]
+[[Day 1](#day-1-why-compositionality-matters-for-ai) · [Day 2](#day-2-can-language-models-handle-compositionality) · [References](#references)]
 
 A two-day online workshop on compositionality and artificial intelligence organized by [Gary Marcus](http://garymarcus.com) and [Raphaël Millière](https://raphaelmilliere.com).
 
-
-
-## Speakers
-
-- [Stephanie Chan](https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en) (DeepMind)
-- [Allyson Ettinger](https://linguistics.uchicago.edu/allyson-ettinger) (University of Chicago)
-- [Dieuwke Hupkes](https://dieuwkehupkes.nl/) (European Laboratory for Learning and Intelligent Systems / Meta AI)
-- [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) (Johns Hopkins University/Microsoft Research Redmond)
-- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
-- [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
-- [Gary Marcus](http://garymarcus.com) (New York University, Emeritus)
-- [Raphaël Millière](https://raphaelmilliere.com) (Columbia University)
-- [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
-
-## Recordings
-
-### Day 1: Why Compositionality Matters for AI
+## Day 1: Why Compositionality Matters for AI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tH9Qz1nH3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### [Gary Marcus](http://garymarcus.com) (New York University, Emeritus)
+#### [Gary Marcus](http://garymarcus.com) (New York University, Emeritus)
 "Compositionality and Natural Language Understanding"
 
-##### [Allyson Ettinger](https://linguistics.uchicago.edu/allyson-ettinger) (University of Chicago)
+#### [Allyson Ettinger](https://linguistics.uchicago.edu/allyson-ettinger) (University of Chicago)
 "Shades of Meaning Composition: Defining Compositionality Goals in NLU" [[Slides](/pdfs/Ettinger.pdf)]
 
-##### [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) (Johns Hopkins University/Microsoft Research Redmond)
+#### [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) (Johns Hopkins University/Microsoft Research Redmond)
 "Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI" [[Slides](/pdfs/Smolensky.pdf)]
 
-##### [Raphaël Millière](https://raphaelmilliere.com) (Columbia University)
+#### [Raphaël Millière](https://raphaelmilliere.com) (Columbia University)
 "Compositionality Without Constituency" [[Slides](/pdfs/Milliere.pdf)]
 
-### Day 2: Can Language Models Handle Compositionality?
+## Day 2: Can Language Models Handle Compositionality?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GYB2dxvrvX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### [Dieuwke Hupkes](https://dieuwkehupkes.nl/) (European Laboratory for Learning and Intelligent Systems / Meta AI)
+#### [Dieuwke Hupkes](https://dieuwkehupkes.nl/) (European Laboratory for Learning and Intelligent Systems / Meta AI)
 "Are Neural Networks Compositional, and How Do We Even Know?"
 
-##### [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
+#### [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
 "Successes and Failures of Compositionality in Neural Networks for Language" [[Slides](/pdfs/Linzen.pdf)]
 
-##### [Stephanie Chan](https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en) (DeepMind)
+#### [Stephanie Chan](https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en) (DeepMind)
 "Data Distributions Drive Emergent In-Context Learning in Transformers"
 
-##### [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
+#### [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
 "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
 
-##### [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
+#### [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
 "Human-Like Compositional Generalization Through Meta-Learning"
 
 ## References
