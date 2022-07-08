@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[[Speakers](#Speakers) · [Recordings](#Recordings) · [References](#References)]
+[[Speakers](#speakers) · [Recordings](#recordings) · [References](#references)]
 
 <p style="text-align:center;"><img width="35%" src="logo.png" alt="Logo" loading="lazy"></p>
 
