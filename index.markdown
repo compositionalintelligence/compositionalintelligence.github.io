@@ -9,11 +9,7 @@ layout: home
 
 A two-day online workshop on compositionality and artificial intelligence organized by [Gary Marcus](http://garymarcus.com) and [Raphaël Millière](https://raphaelmilliere.com).
 
-## Contents
-
-- [Speakers](##Speakers)
-- [Recordings](##Recordings)
-- [References](##References)
+[[Speakers](##Speakers) · [Recordings](##Recordings) · [References](##References)]
 
 ## Speakers
 
