@@ -11,7 +11,9 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ## Contents
 
-[TOC]
+- [Speakers](##Speakers)
+- [Recordings](##Recordings)
+- [References](##References)
 
 ## Speakers
 
@@ -46,7 +48,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 - Ellie Pavlick -- "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
 - Brenden Lake -- "Human-Like Compositional Generalization Through Meta-Learning"
 
-## Slides and references
+## References
 
 We have listed some relevant papers discussed by each speaker below. Note: this section will get gradually updated.
 
