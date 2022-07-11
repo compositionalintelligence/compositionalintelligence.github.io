@@ -32,7 +32,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GYB2dxvrvX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### [Dieuwke Hupkes](https://dieuwkehupkes.nl/) (European Laboratory for Learning and Intelligent Systems / Meta AI)
-"Are Neural Networks Compositional, and How Do We Even Know?"
+"Are Neural Networks Compositional, and How Do We Even Know?" [[Slides](/pdfs/Hupkes.pdf)]
 
 #### [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
 "Successes and Failures of Compositionality in Neural Networks for Language" [[Slides](/pdfs/Linzen.pdf)]
@@ -41,7 +41,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 "Data Distributions Drive Emergent In-Context Learning in Transformers"
 
 #### [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
-"No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure"
+"No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure" [PDF]([Slides](/pdfs/Pavlick.pdf))
 
 #### [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
 "Human-Like Compositional Generalization Through Meta-Learning"
@@ -78,6 +78,16 @@ We have listed some relevant papers discussed by each speaker below. Note: this 
 - Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., Askell, A., Bai, Y., Chen, A., Conerly, T., DasSarma, N., Drain, D., Ganguli, D., Hatfield-Dodds, Z., Hernandez, D., Jones, A., Kernion, J., Lovitt, L., Ndousse, K., … Olah, C. (2021). A mathematical framework for transformer circuits. Transformer Circuits Thread. [Online](https://transformer-circuits.pub/2021/framework/index.html)
 - Olsson, C., Elhage, N., Nanda, N., Joseph, N., DasSarma, N., Henighan, T., Mann, B., Askell, A., Bai, Y., Chen, A., Conerly, T., Drain, D., Ganguli, D., Hatfield-Dodds, Z., Hernandez, D., Johnston, S., Jones, A., Kernion, J., Lovitt, L., … Olah, C. (2022). In-context learning and induction heads. Transformer Circuits Thread. [Online](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 
+
+### Dieuwke Hupkes
+
+[Slides](/pdfs/Hupkes.pdf)
+
+- Hupkes, D., Dankers, V., Mul, M., & Bruni, E. (2020). Compositionality Decomposed: How do Neural Networks Generalise? Journal of Artificial Intelligence Research, 67, 757–795. [PDF](https://www.jair.org/index.php/jair/article/view/11674/26576)
+- Dankers, V., Bruni, E., & Hupkes, D. (2022). The Paradox of the Compositionality of Natural Language: A Neural Machine Translation Case Study. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 4154–4175. [PDF](https://aclanthology.org/2022.acl-long.286.pdf)
+
+
+
 ### Tal Lizen
 
 [Slides](/pdfs/Linzen.pdf)
@@ -87,3 +97,10 @@ We have listed some relevant papers discussed by each speaker below. Note: this 
 - R. Thomas McCoy, Paul Smolensky, Tal Linzen, Jianfeng Gao & Asli Celikyilmaz. How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN. [PDF](https://arxiv.org/abs/2111.09509)
 - Linlu Qiu, Peter Shaw, Panupong Pasupat, Paweł Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova. Improving Compositional Generalization with Latent Structure and Data Augmentation. NAACL. [PDF](https://arxiv.org/abs/2112.07610)
 - R. Thomas McCoy, Ellie Pavlick & Tal Linzen (2019). Right for the wrong reasons: Diagnosing syntactic heuristics in natural language inference. ACL. [PDF](https://aclanthology.org/P19-1334/)
+
+### Ellie Pavlick
+
+[Slides](/pdfs/Pavlick.pdf)
+
+- Pavlick, E. (2022). Semantic Structure in Deep Learning. Annual Review of Linguistics, 8(1), 447–471. [PDF](https://www.annualreviews.org/doi/epdf/10.1146/annurev-linguistics-031120-122924)
+- Unit Testing for Concepts in Neural Networks. TACL 2022 (to appear).
