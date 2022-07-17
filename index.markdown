@@ -88,7 +88,7 @@ We have listed some relevant papers discussed by each speaker below. Note: this 
 
 
 
-### Tal Lizen
+### Tal Linzen
 
 [Slides](/pdfs/Linzen.pdf)
 
