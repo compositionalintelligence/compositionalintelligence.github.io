@@ -16,7 +16,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tH9Qz1nH3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### [Gary Marcus](http://garymarcus.com) (New York University, Emeritus)
-"Compositionality and Natural Language Understanding"
+"Compositionality and Natural Language Understanding" [[Slides](/pdfs/Marcus.pdf)]
 
 #### [Allyson Ettinger](https://linguistics.uchicago.edu/allyson-ettinger) (University of Chicago)
 "Shades of Meaning Composition: Defining Compositionality Goals in NLU" [[Slides](/pdfs/Ettinger.pdf)]
@@ -49,6 +49,15 @@ A two-day online workshop on compositionality and artificial intelligence organi
 ## References
 
 We have listed some relevant papers discussed by each speaker below. Note: this section will get gradually updated.
+
+### Gary Marcus
+
+[Slides](/pdfs/Marcus.pdf)
+
+- Marcus, G. (2022). Horse rides astronaut. [Blog post](https://garymarcus.substack.com/p/horse-rides-astronaut)
+- Marcus, G. (2022). The New Science of Alt Intelligence. [Blog post](https://garymarcus.substack.com/p/the-new-science-of-alt-intelligence)
+- Marcus, G. (2020). The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence (arXiv:2002.06177). [PDF](https://doi.org/10.48550/arXiv.2002.06177)
+- Marcus, G. (2001). The Algebraic Mind: Integrating Connectionism and Cognitive Science. MIT Press. Chapter 5.
 
 ### Allyson Ettinger
 
