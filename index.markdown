@@ -41,7 +41,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 "Data Distributions Drive Emergent In-Context Learning in Transformers"
 
 #### [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
-"No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure" [[PDF]([Slides](/pdfs/Pavlick.pdf))]
+"No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure" [[Slides](/pdfs/Pavlick.pdf)]
 
 #### [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
 "Human-Like Compositional Generalization Through Meta-Learning"
