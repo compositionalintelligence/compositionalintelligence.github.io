@@ -38,7 +38,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 "Successes and Failures of Compositionality in Neural Networks for Language" [[Slides](/pdfs/Linzen.pdf)]
 
 #### [Stephanie Chan](https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en) (DeepMind)
-"Data Distributions Drive Emergent In-Context Learning in Transformers"
+"Data Distributions Drive Emergent In-Context Learning in Transformers" [[Slides](/pdfs/Chan.pdf)]
 
 #### [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
 "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure" [[Slides](/pdfs/Pavlick.pdf)]
@@ -106,6 +106,21 @@ We have listed some relevant papers discussed by each speaker below. Note: this 
 - R. Thomas McCoy, Paul Smolensky, Tal Linzen, Jianfeng Gao & Asli Celikyilmaz. How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN. [PDF](https://arxiv.org/abs/2111.09509)
 - Linlu Qiu, Peter Shaw, Panupong Pasupat, Paweł Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova. Improving Compositional Generalization with Latent Structure and Data Augmentation. NAACL. [PDF](https://arxiv.org/abs/2112.07610)
 - R. Thomas McCoy, Ellie Pavlick & Tal Linzen (2019). Right for the wrong reasons: Diagnosing syntactic heuristics in natural language inference. ACL. [PDF](https://aclanthology.org/P19-1334/)
+
+
+### Stephanie Chan
+
+[Slides](/pdfs/Chan.pdf)
+
+- Santoro, Adam, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, and Timothy Lillicrap. “Meta-Learning with Memory-Augmented Neural Networks,” 2016, 9. [PDF](http://proceedings.mlr.press/v48/santoro16.pdf)
+- Vinyals, Oriol, Charles Blundell, and Timothy Lillicrap. “Matching Networks for One Shot Learning,” 2016, 9. [PDF](https://proceedings.neurips.cc/paper/2016/file/90e1357833654983612fb05e3ec9148c-Paper.pdf)
+- Wang, Jane X., Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z. Leibo, Remi Munos, Charles Blundell, Dharshan Kumaran, and Matt Botvinick. “Learning to Reinforcement Learn.” ArXiv:1611.05763 [Cs, Stat], November 17, 2016. [PDF](http://arxiv.org/abs/1611.05763)
+- Alayrac, Jean-Baptiste, Jeﬀ Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, et al. “🦩 Flamingo: A Visual Language Model for Few-Shot Learning,” n.d., 66. [PDF](https://arxiv.org/pdf/2204.14198.pdf)
+- Brown, Tom B., Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al. “Language Models Are Few-Shot Learners.” ArXiv:2005.14165 [Cs], July 22, 2020. [PDF](http://arxiv.org/abs/2005.14165)
+- Akyürek, Ekin, and Jacob Andreas. Compositionality as Lexical Symmetry. arXiv, January 30, 2022. [PDF](https://doi.org/10.48550/arXiv.2201.1292)
+- Andreas, Jacob. Good-Enough Compositional Data Augmentation. ArXiv:1904.09545 [Cs], May 19, 2020. [PDF](http://arxiv.org/abs/1904.09545)
+- Hill, Felix, Andrew Lampinen, Rosalia Schneider, Stephen Clark, Matthew Botvinick, James L McClelland, and Adam Santoro. “Environmental Drivers of Systematicity and Generalisation in a Situated Agent,” 2020, 15. [PDF](https://arxiv.org/pdf/1910.00571.pdf)
+- Chan, Stephanie C. Y., Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, and Felix Hill. “Data Distributional Properties Drive Emergent In-Context Learning in Transformers.” arXiv, May 30, 2022. [PDF](http://arxiv.org/abs/2205.05055)
 
 ### Ellie Pavlick
 
