@@ -25,7 +25,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 "Human-Level Intelligence Requires Continuous, Robustly Compositional Representations: Neurocompositional Computing for NECST-Generation AI" [[Slides](/pdfs/Smolensky.pdf)]
 
 #### [Raphaël Millière](https://raphaelmilliere.com) (Columbia University)
-"Compositionality Without Constituency" [[Slides](/pdfs/Milliere.pdf)]
+"Compositionality Without Classical Constituency" [[Slides](/pdfs/Milliere.pdf)]
 
 ## Day 2: Can Language Models Handle Compositionality?
 
