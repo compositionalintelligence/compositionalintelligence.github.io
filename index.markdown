@@ -44,7 +44,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 "No One Metric is Enough! Combining Evaluation Techniques to Uncover Latent Structure" [[Slides](/pdfs/Pavlick.pdf)]
 
 #### [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
-"Human-Like Compositional Generalization Through Meta-Learning"
+"Human-Like Compositional Generalization Through Meta-Learning" [[Slides](/pdfs/Lake.pdf)]
 
 ## References
 
@@ -128,3 +128,11 @@ We have listed some relevant papers discussed by each speaker below. Note: this 
 
 - Pavlick, E. (2022). Semantic Structure in Deep Learning. Annual Review of Linguistics, 8(1), 447–471. [PDF](https://www.annualreviews.org/doi/epdf/10.1146/annurev-linguistics-031120-122924)
 - Unit Testing for Concepts in Neural Networks. TACL 2022 (to appear).
+
+### Brenden Lake
+
+[Slides](/pdfs/Lake.pdf)
+
+- Lake, B. M. and Murphy, G. L. (2021). Word meaning in minds and machines. Psychological Review. [PDF](https://psycnet.apa.org/fulltext/2021-63913-001.pdf)
+- Lake, B. M. (2019). Compositional generalization through meta sequence-to-sequence learning. Advances in Neural Information Processing Systems 32. [PDF](https://proceedings.neurips.cc/paper/2019/file/f4d0e2e7fc057a58f7ca4a391f01940a-Paper.pdf)
+- Lake, B. M., Linzen, T., and Baroni, M. (2019). Human few-shot learning of compositional instructions. In Proceedings of the 41st Annual Conference of the Cognitive Science Society. [PDF](https://cims.nyu.edu/~brenden/papers/LakeEtAl2019CogSci.pdf)
