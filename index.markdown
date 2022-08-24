@@ -48,7 +48,7 @@ A two-day online workshop on compositionality and artificial intelligence organi
 
 ## References
 
-We have listed some relevant papers discussed by each speaker below. Note: this section will get gradually updated.
+We have listed some relevant papers discussed by each speaker below. 
 
 ### Gary Marcus
 
